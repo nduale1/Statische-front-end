@@ -1,0 +1,12 @@
+body 
+div {
+  height: 200px;
+  width: 300%;
+  background-color: rgb(237, 237, 214);
+}
+
+div {
+  padding: 40px;
+  Margin: 40px;
+  border: 20px dashed red;
+}  
